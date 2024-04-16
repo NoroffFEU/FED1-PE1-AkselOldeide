@@ -1,3 +1,2 @@
 # FED1 Project Exam 1
-
-Use this file to describe your project.
+[Live deploy](https://blog-aksel.netlify.app)
